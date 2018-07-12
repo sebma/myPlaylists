@@ -1,0 +1,273 @@
+#EXTM3U
+#EXTINF:0,2 - France 2 HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=hd
+#EXTINF:0,13 - La Chaîne Parlementaire HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226&flavour=hd
+#EXTINF:0,23 - Numéro 23 HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996&flavour=hd
+#EXTINF:0,25 - Chérie 25 HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=hd
+#EXTINF:0,30 - Mosaïque chaines locales HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1112&flavour=hd
+#EXTINF:0,36 - QVC HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121&flavour=hd
+#EXTINF:0,179 - Fight Box HD HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=969&flavour=hd
+#EXTINF:0,182 - Motorvision HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1127&flavour=hd
+#EXTINF:0,183 - Nautical Channel HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255&flavour=hd
+#EXTINF:0,205 - Histoire HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235&flavour=hd
+#EXTINF:0,207 - Science & Vie TV HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251&flavour=hd
+#EXTINF:0,209 - Trek HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252&flavour=hd
+#EXTINF:0,211 - Souvenirs from Earth HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=710&flavour=hd
+#EXTINF:0,216 - Chasse et pêche HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=249&flavour=hd
+#EXTINF:0,247 - Star 24 HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1111&flavour=hd
+#EXTINF:0,273 - Trace Gospel HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1136&flavour=hd
+#EXTINF:0,302 - France 3 Alpes HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=283&flavour=hd
+#EXTINF:0,304 - France 3 Aquitaine HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=284&flavour=hd
+#EXTINF:0,306 - France 3 Basse-Normandie HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=298&flavour=hd
+#EXTINF:0,308 - France 3 Bretagne HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=286&flavour=hd
+#EXTINF:0,310 - France 3 Champagne-Ardenne HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=288&flavour=hd
+#EXTINF:0,312 - France 3 Côte-d'Azur HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=290&flavour=hd
+#EXTINF:0,314 - France 3 Haute-Normandie HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=297&flavour=hd
+#EXTINF:0,316 - France 3 Limousin HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=293&flavour=hd
+#EXTINF:0,318 - France 3 Midi Pyrénées HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=295&flavour=hd
+#EXTINF:0,320 - France 3 Paris Ile-de-France HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=257&flavour=hd
+#EXTINF:0,322 - France 3 Picardie HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=300&flavour=hd
+#EXTINF:0,324 - France 3 Provence-Alpes HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=302&flavour=hd
+#EXTINF:0,344 - Public Sénat HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692&flavour=hd
+#EXTINF:0,529 - Star TVE HD HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1293&flavour=hd
+#EXTINF:0,697 - Record Internacional HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=728&flavour=hd
+#EXTINF:0,742 - Dragon TV - CET HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1238&flavour=hd
+#EXTINF:0,744 - Hunan TV - CET HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1240&flavour=hd
+#EXTINF:0,754 - Hubei TV - CET HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1250&flavour=hd
+#EXTINF:0,774 - Documentary Channel - CET HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1269&flavour=hd
+#EXTINF:0,783 - Shandong TV - CET HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1277&flavour=hd
+#EXTINF:0,785 - Hong Kong TV - CET HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1279&flavour=hd
+#EXTINF:0,789 - Cartoon Channel - CET HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1283&flavour=hd
+#EXTINF:0,791 - Boutique Drama Channel - CET HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1285&flavour=hd
+#EXTINF:0,793 - Panda Channel - CET HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1287&flavour=hd
+#EXTINF:0,927 - TVR HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1063&flavour=hd
+#EXTINF:0,929 - Tébéo HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1065&flavour=hd
+#EXTINF:0,931 - MFM TV HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1067&flavour=hd
+#EXTINF:0,937 - MaTélé HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1165&flavour=hd
+#EXTINF:0,938 - Angers TV HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1174&flavour=hd
+#EXTINF:0,942 - Vià31 HD
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1303&flavour=hd
+#EXTINF:0,10001 - Europe 1
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1001
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100004
+#EXTINF:0,10003 - France Inter
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1001
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
+#EXTINF:0,10004 - RMC Info
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1004
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100004
+#EXTINF:0,10005 - RTL
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1006
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100004
+#EXTINF:0,10006 - Chérie FM
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1005
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100004
+#EXTINF:0,10007 - Virgin Radio
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1003
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100004
+#EXTINF:0,10008 - Fun Radio
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1007
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100013
+#EXTINF:0,10009 - Nostalgie
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1002
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100004
+#EXTINF:0,10010 - NRJ
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1006
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100011
+#EXTINF:0,10011 - RFM
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1001
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100011
+#EXTINF:0,10012 - Rire et Chansons
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1002
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100011
+#EXTINF:0,10013 - RTL 2
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1005
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100001
+#EXTINF:0,10014 - Skyrock
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1004
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100011
+#EXTINF:0,10015 - BFM
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1005
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100011
+#EXTINF:0,10016 - France Culture
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1002
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
+#EXTINF:0,10017 - franceinfo
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1001
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100010
+#EXTINF:0,10018 - France Musique
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1006
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
+#EXTINF:0,10019 - Radio Classique
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1005
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100005
+#EXTINF:0,10020 - Contact FM
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1004
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100013
+#EXTINF:0,10021 - FIP
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1003
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
+#EXTINF:0,10022 - Mouv'
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1004
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100006
+#EXTINF:0,10023 - Nova
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1001
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100005
+#EXTINF:0,10024 - Ouï FM
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1002
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100005
+#EXTINF:0,10025 - TSF Jazz
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1004
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100005
+#EXTINF:0,10026 - France BLEU - la CityRadio
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1002
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100010
+#EXTINF:0,10027 - RFI
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1006
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100005
+#EXTINF:0,10028 - RFI Multilingues
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1001
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100013
+#EXTINF:0,10030 - Radio FG
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1003
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100005
+#EXTINF:0,10032 - Fréquence Jazz
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1003
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100011
+#EXTINF:0,10034 - Beur FM
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1003
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100013
+#EXTINF:0,10035 - Voltage
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1002
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100001
+#EXTINF:0,10036 - Sud Radio
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1004
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100001
+#EXTINF:0,10037 - Ado FM
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1001
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100001
+#EXTINF:0,10048 - Vibration
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1003
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100001
+#EXTINF:0,10061 - Radio Latina
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1006
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100013
+#EXTINF:0,10085 - Monte-Carlo Doualiya
+#EXTVLCOPT:ts-es-id-pid
+#EXTVLCOPT:no-video
+#EXTVLCOPT:audio-track-id=1005
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=100012
