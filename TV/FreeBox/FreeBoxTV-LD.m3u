@@ -1,0 +1,519 @@
+#EXTM3U
+#EXTINF:0,2 - France 2 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=ld
+#EXTINF:0,3 - France 3 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=ld
+#EXTINF:0,7 - Arte (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=ld
+#EXTINF:0,10 - TMC (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497&flavour=ld
+#EXTINF:0,11 - TFX (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=374&flavour=ld
+#EXTINF:0,12 - NRJ 12 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375&flavour=ld
+#EXTINF:0,13 - La Chaîne Parlementaire (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226&flavour=ld
+#EXTINF:0,14 - France 4 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=ld
+#EXTINF:0,15 - BFM TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400&flavour=ld
+#EXTINF:0,21 - L'Equipe (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994&flavour=ld
+#EXTINF:0,23 - RMC Story (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996&flavour=ld
+#EXTINF:0,24 - RMC Découverte (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997&flavour=ld
+#EXTINF:0,25 - Chérie 25 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=ld
+#EXTINF:0,27 - franceinfo (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1173&flavour=ld
+#EXTINF:0,28 - Paris Première (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=213&flavour=ld
+#EXTINF:0,29 - RTL9 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210&flavour=ld
+#EXTINF:0,51 - AB 1 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211&flavour=ld
+#EXTINF:0,52 - Paramount Channel (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050&flavour=ld
+#EXTINF:0,53 - TEVA (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=404&flavour=ld
+#EXTINF:0,64 - M6 Music (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=430&flavour=ld
+#EXTINF:0,89 - Game One +1 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=979&flavour=ld
+#EXTINF:0,90 - Mangas (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=253&flavour=ld
+#EXTINF:0,91 - ES1 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1309&flavour=ld
+#EXTINF:0,94 - GONG (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045&flavour=ld
+#EXTINF:0,99 - BET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1135&flavour=ld
+#EXTINF:0,120 - Drive In Movie Channel (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1295&flavour=ld
+#EXTINF:0,121 - Action (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242&flavour=ld
+#EXTINF:0,122 - Paramount Décalé (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1167&flavour=ld
+#EXTINF:0,154 - Toonami (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1163&flavour=ld
+#EXTINF:0,178 - Trace Sport Stars (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=965&flavour=ld
+#EXTINF:0,180 - AB Moteurs (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222&flavour=ld
+#EXTINF:0,185 - Golf Channel (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=892&flavour=ld
+#EXTINF:0,202 - Crime District (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1314&flavour=ld
+#EXTINF:0,205 - Histoire (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235&flavour=ld
+#EXTINF:0,206 - Toute l'histoire (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250&flavour=ld
+#EXTINF:0,207 - Science & Vie TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251&flavour=ld
+#EXTINF:0,208 - Animaux (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248&flavour=ld
+#EXTINF:0,209 - Trek (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252&flavour=ld
+#EXTINF:0,210 - Aerostar (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1162&flavour=ld
+#EXTINF:0,216 - Chasse et pêche (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=249&flavour=ld
+#EXTINF:0,219 - Tahiti Nui (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1297&flavour=ld
+#EXTINF:0,231 - Vivolta (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=940&flavour=ld
+#EXTINF:0,232 - M6 Boutique & Co (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=359&flavour=ld
+#EXTINF:0,233 - Best of Shopping (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=358&flavour=ld
+#EXTINF:0,234 - QVC (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121&flavour=ld
+#EXTINF:0,238 - Men's Up TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=878&flavour=ld
+#EXTINF:0,239 - Ouatch TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1076&flavour=ld
+#EXTINF:0,244 - Lucky Jack (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=891&flavour=ld
+#EXTINF:0,246 - ECTV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1082&flavour=ld
+#EXTINF:0,247 - Star 24 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1111&flavour=ld
+#EXTINF:0,270 - Virgin Radio TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1071&flavour=ld
+#EXTINF:0,274 - Clubbing TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767&flavour=ld
+#EXTINF:0,281 - OKLM (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1166&flavour=ld
+#EXTINF:0,282 - Generations TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1305&flavour=ld
+#EXTINF:0,283 - People 24 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=981&flavour=ld
+#EXTINF:0,289 - Trace Toca (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1137&flavour=ld
+#EXTINF:0,290 - Trace Gospel (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1136&flavour=ld
+#EXTINF:0,291 - BeBlack (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=918&flavour=ld
+#EXTINF:0,294 - Melody d'Afrique (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1306&flavour=ld
+#EXTINF:0,301 - France 3 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=ld
+#EXTINF:0,347 - BFM Business (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897&flavour=ld
+#EXTINF:0,352 - Fox News (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1073&flavour=ld
+#EXTINF:0,357 - i24 News (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1048&flavour=ld
+#EXTINF:0,359 - Russia Today France (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1304&flavour=ld
+#EXTINF:0,421 - Noursat (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1069&flavour=ld
+#EXTINF:0,422 - Daystar (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1141&flavour=ld
+#EXTINF:0,430 - UbizNews (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1110&flavour=ld
+#EXTINF:0,431 - Nina TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1296&flavour=ld
+#EXTINF:0,432 - TPA (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1115&flavour=ld
+#EXTINF:0,433 - TNH (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1129&flavour=ld
+#EXTINF:0,436 - HLive (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1126&flavour=ld
+#EXTINF:0,445 - Antenne A (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1143&flavour=ld
+#EXTINF:0,446 - B-One TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1085&flavour=ld
+#EXTINF:0,447 - Maïsha TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1086&flavour=ld
+#EXTINF:0,448 - Sen TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1087&flavour=ld
+#EXTINF:0,449 - TVT (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1088&flavour=ld
+#EXTINF:0,460 - Nollywood (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=800&flavour=ld
+#EXTINF:0,462 - Gabon Télévision (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=916&flavour=ld
+#EXTINF:0,463 - RTG (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=917&flavour=ld
+#EXTINF:0,470 - SUD1ere (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1068&flavour=ld
+#EXTINF:0,471 - TVM (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1124&flavour=ld
+#EXTINF:0,472 - ORTC (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=888&flavour=ld
+#EXTINF:0,473 - MBC Sat (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1123&flavour=ld
+#EXTINF:0,474 - Telekreol (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1120&flavour=ld
+#EXTINF:0,478 - MBOA TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=837&flavour=ld
+#EXTINF:0,479 - LBC Sat (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1099&flavour=ld
+#EXTINF:0,482 - Algérie 3 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=943&flavour=ld
+#EXTINF:0,483 - Algérie 5 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=944&flavour=ld
+#EXTINF:0,484 - Tamazight TV4 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=945&flavour=ld
+#EXTINF:0,485 - Al Erth Al Nabawi (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1090&flavour=ld
+#EXTINF:0,486 - Beur TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=225&flavour=ld
+#EXTINF:0,490 - Al Ahly (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1093&flavour=ld
+#EXTINF:0,491 - Al Resalah (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=922&flavour=ld
+#EXTINF:0,492 - Rotana Aflam (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1094&flavour=ld
+#EXTINF:0,493 - Rotana Cinema (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=920&flavour=ld
+#EXTINF:0,494 - Rotana Clip (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=923&flavour=ld
+#EXTINF:0,495 - Rotana Khalijia (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=921&flavour=ld
+#EXTINF:0,496 - Rotana Masriya (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1095&flavour=ld
+#EXTINF:0,497 - Rotana Music Channel (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=924&flavour=ld
+#EXTINF:0,498 - Rotana Classic (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=925&flavour=ld
+#EXTINF:0,499 - Trace Naija (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1175&flavour=ld
+#EXTINF:0,500 - Trace Mziki (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1176&flavour=ld
+#EXTINF:0,507 - VTC 10 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1225&flavour=ld
+#EXTINF:0,508 - VTV1 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1226&flavour=ld
+#EXTINF:0,509 - VTV3 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1227&flavour=ld
+#EXTINF:0,510 - HTV9 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1228&flavour=ld
+#EXTINF:0,516 - Arirang (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=894&flavour=ld
+#EXTINF:0,518 - B4U Music (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=904&flavour=ld
+#EXTINF:0,522 - Pro TV Int. (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=961&flavour=ld
+#EXTINF:0,523 - Antena 3 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1101&flavour=ld
+#EXTINF:0,524 - Atres Series (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1102&flavour=ld
+#EXTINF:0,525 - Sol Musica (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1103&flavour=ld
+#EXTINF:0,526 - TV3 Cataluna (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1104&flavour=ld
+#EXTINF:0,527 - Galicia TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1105&flavour=ld
+#EXTINF:0,528 - ETB Sat (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=371&flavour=ld
+#EXTINF:0,529 - Star TVE HD (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1293&flavour=ld
+#EXTINF:0,546 - Mediaset Italia (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=839&flavour=ld
+#EXTINF:0,550 - Numidia TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1164&flavour=ld
+#EXTINF:0,552 - Tamazight TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1138&flavour=ld
+#EXTINF:0,553 - Al Magharibia (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1142&flavour=ld
+#EXTINF:0,554 - IMED TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=838&flavour=ld
+#EXTINF:0,555 - Ennahar (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1070&flavour=ld
+#EXTINF:0,556 - Echorouk TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1160&flavour=ld
+#EXTINF:0,557 - Ulusal Kanal (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=914&flavour=ld
+#EXTINF:0,558 - Arriyadia (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=908&flavour=ld
+#EXTINF:0,559 - Canal Atlas (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1139&flavour=ld
+#EXTINF:0,566 - El Hiwar Ettounsi (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1133&flavour=ld
+#EXTINF:0,579 - LBC Europe (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=335&flavour=ld
+#EXTINF:0,587 - SkyTurk (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=913&flavour=ld
+#EXTINF:0,600 - Halk TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1046&flavour=ld
+#EXTINF:0,618 - RTL (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=985&flavour=ld
+#EXTINF:0,619 - RTL2 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=986&flavour=ld
+#EXTINF:0,620 - Super RTL (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=987&flavour=ld
+#EXTINF:0,621 - RTL Nitro (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=988&flavour=ld
+#EXTINF:0,622 - Vox (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=989&flavour=ld
+#EXTINF:0,623 - ProSieben (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=990&flavour=ld
+#EXTINF:0,624 - Sat1 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=991&flavour=ld
+#EXTINF:0,625 - NTV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=992&flavour=ld
+#EXTINF:0,626 - N24 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1089&flavour=ld
+#EXTINF:0,628 - SIC Noticias (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1038&flavour=ld
+#EXTINF:0,629 - TVI International (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1039&flavour=ld
+#EXTINF:0,631 - A Bola TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1041&flavour=ld
+#EXTINF:0,632 - Porto Canal (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1042&flavour=ld
+#EXTINF:0,633 - Baby TV (portugais) (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1043&flavour=ld
+#EXTINF:0,635 - Canal Q (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1049&flavour=ld
+#EXTINF:0,639 - Deepam (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=903&flavour=ld
+#EXTINF:0,649 - Kentron TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1159&flavour=ld
+#EXTINF:0,654 - Murr TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=843&flavour=ld
+#EXTINF:0,655 - NBN (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=844&flavour=ld
+#EXTINF:0,656 - Future TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=845&flavour=ld
+#EXTINF:0,657 - Nessma (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=957&flavour=ld
+#EXTINF:0,658 - Al Jadeed (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=846&flavour=ld
+#EXTINF:0,667 - Panorama Cinema (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1168&flavour=ld
+#EXTINF:0,668 - Panorama Drama (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1169&flavour=ld
+#EXTINF:0,669 - Samira TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1132&flavour=ld
+#EXTINF:0,670 - MBC Masr (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=884&flavour=ld
+#EXTINF:0,671 - MBC Drama (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1091&flavour=ld
+#EXTINF:0,672 - MBC 3 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=902&flavour=ld
+#EXTINF:0,673 - MBC (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=334&flavour=ld
+#EXTINF:0,674 - Al Arabiya (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1092&flavour=ld
+#EXTINF:0,675 - Dzair TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1170&flavour=ld
+#EXTINF:0,676 - Dzair News (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1171&flavour=ld
+#EXTINF:0,677 - Al Rawda (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1229&flavour=ld
+#EXTINF:0,678 - Basma (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1230&flavour=ld
+#EXTINF:0,679 - Majid (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1231&flavour=ld
+#EXTINF:0,696 - Russia Today Espanol (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=856&flavour=ld
+#EXTINF:0,698 - Russian Al Yaum (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=899&flavour=ld
+#EXTINF:0,699 - Record News (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=909&flavour=ld
+#EXTINF:0,700 - Karusel (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=919&flavour=ld
+#EXTINF:0,702 - CTC (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1117&flavour=ld
+#EXTINF:0,703 - TNT Comedy (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1118&flavour=ld
+#EXTINF:0,705 - TV1000 Kino (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1119&flavour=ld
+#EXTINF:0,706 - Dom Kino (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=840&flavour=ld
+#EXTINF:0,707 - Muzika Pervoyo (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=841&flavour=ld
+#EXTINF:0,708 - Vremya (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=842&flavour=ld
+#EXTINF:0,719 - Mandarin TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1131&flavour=ld
+#EXTINF:0,740 - CCTV-4 International Channel - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1236&flavour=ld
+#EXTINF:0,741 - Beijing TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1237&flavour=ld
+#EXTINF:0,742 - Dragon TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1238&flavour=ld
+#EXTINF:0,743 - Xiamen TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1239&flavour=ld
+#EXTINF:0,744 - Hunan TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1240&flavour=ld
+#EXTINF:0,745 - Phoenix News - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1241&flavour=ld
+#EXTINF:0,746 - Phoenix Europe - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1242&flavour=ld
+#EXTINF:0,747 - Star TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1243&flavour=ld
+#EXTINF:0,748 - CNTV-15 Music - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1244&flavour=ld
+#EXTINF:0,749 - CNTV-1 General - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1245&flavour=ld
+#EXTINF:0,750 - Neimenggu TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1246&flavour=ld
+#EXTINF:0,751 - Henan TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1247&flavour=ld
+#EXTINF:0,752 - Guangdong TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1248&flavour=ld
+#EXTINF:0,753 - Yunnan TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1249&flavour=ld
+#EXTINF:0,755 - Sichuan TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1251&flavour=ld
+#EXTINF:0,756 - Liaoning TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1252&flavour=ld
+#EXTINF:0,758 - CNTV-7 + Military and Agriculture - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1253&flavour=ld
+#EXTINF:0,759 - CNTV-12 + Society and Law - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1254&flavour=ld
+#EXTINF:0,760 - CNTV-2 Finance - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1255&flavour=ld
+#EXTINF:0,761 - CGTN Espanol - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1256&flavour=ld
+#EXTINF:0,762 - CGTN Arabic - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1257&flavour=ld
+#EXTINF:0,763 - CGTN Russian - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1258&flavour=ld
+#EXTINF:0,764 - CNTV-10 + Science and Education - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1259&flavour=ld
+#EXTINF:0,765 - CNTV-14 + Children - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1260&flavour=ld
+#EXTINF:0,766 - Macau Asia Satellite TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1261&flavour=ld
+#EXTINF:0,767 - Ningxia TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1262&flavour=ld
+#EXTINF:0,768 - Qinghai TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1263&flavour=ld
+#EXTINF:0,769 - Guizhou TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1264&flavour=ld
+#EXTINF:0,770 - Heilongjiang TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1265&flavour=ld
+#EXTINF:0,771 - Shaanxi TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1266&flavour=ld
+#EXTINF:0,772 - Chinese Kungfu - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1267&flavour=ld
+#EXTINF:0,773 - China Education Television - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1268&flavour=ld
+#EXTINF:0,774 - Documentary Channel - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1269&flavour=ld
+#EXTINF:0,775 - Society & Law Channel - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1270&flavour=ld
+#EXTINF:0,776 - Shandong Education Television - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1271&flavour=ld
+#EXTINF:0,777 - Beijing TV Documentary - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1272&flavour=ld
+#EXTINF:0,779 - Southeast Television - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1273&flavour=ld
+#EXTINF:0,780 - Chongqing TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1274&flavour=ld
+#EXTINF:0,781 - Anhui TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1275&flavour=ld
+#EXTINF:0,782 - Tianjin TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1276&flavour=ld
+#EXTINF:0,783 - Shandong TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1277&flavour=ld
+#EXTINF:0,784 - Shenzhen TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1278&flavour=ld
+#EXTINF:0,785 - Hong Kong TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1279&flavour=ld
+#EXTINF:0,786 - One TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1280&flavour=ld
+#EXTINF:0,787 - Liyuan Chinese Opera Channel - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1281&flavour=ld
+#EXTINF:0,788 - Wenzhou TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1282&flavour=ld
+#EXTINF:0,789 - Cartoon Channel - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1283&flavour=ld
+#EXTINF:0,790 - Entertainment Channel - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1284&flavour=ld
+#EXTINF:0,791 - Boutique Drama Channel - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1285&flavour=ld
+#EXTINF:0,792 - Palace TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1286&flavour=ld
+#EXTINF:0,793 - Panda Channel - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1287&flavour=ld
+#EXTINF:0,794 - Gansu TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1288&flavour=ld
+#EXTINF:0,795 - Shanxi TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1289&flavour=ld
+#EXTINF:0,796 - Guangxi TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1290&flavour=ld
+#EXTINF:0,797 - Jiangxi TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1291&flavour=ld
+#EXTINF:0,798 - Hebei TV - CET (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1292&flavour=ld
+#EXTINF:0,799 - NTD Television (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=912&flavour=ld
+#EXTINF:0,900 - Grand Lille TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=826&flavour=ld
+#EXTINF:0,906 - La Chaîne Normande (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1125&flavour=ld
+#EXTINF:0,909 - TV Cristal (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1234&flavour=ld
+#EXTINF:0,913 - TV Fil 78 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=855&flavour=ld
+#EXTINF:0,916 - Valenciennes TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=958&flavour=ld
+#EXTINF:0,917 - Canal 10 Guadeloupe (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=929&flavour=ld
+#EXTINF:0,919 - vià30 Pays Gardois (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=880&flavour=ld
+#EXTINF:0,920 - Mirabelle TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=907&flavour=ld
+#EXTINF:0,921 - Vosges Television (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=900&flavour=ld
+#EXTINF:0,922 - vià34 Montpellier (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=930&flavour=ld
+#EXTINF:0,923 - Maritima TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=951&flavour=ld
+#EXTINF:0,924 - TV Vendée (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=964&flavour=ld
+#EXTINF:0,926 - Grand Littoral TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1302&flavour=ld
+#EXTINF:0,927 - TVR (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1063&flavour=ld
+#EXTINF:0,928 - Tébésud (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1064&flavour=ld
+#EXTINF:0,929 - Tébéo (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1065&flavour=ld
+#EXTINF:0,930 - D!CI TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1066&flavour=ld
+#EXTINF:0,931 - MFM TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1067&flavour=ld
+#EXTINF:0,932 - Télé Antilles (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1084&flavour=ld
+#EXTINF:0,933 - TL7 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1108&flavour=ld
+#EXTINF:0,934 - TVPI (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1107&flavour=ld
+#EXTINF:0,935 - Azur TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1130&flavour=ld
+#EXTINF:0,936 - vià66 Pays Catalan (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1235&flavour=ld
+#EXTINF:0,938 - Angers TV (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1174&flavour=ld
+#EXTINF:0,939 - Télé Bocal (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1220&flavour=ld
+#EXTINF:0,942 - Vià31 (bas débit)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1303&flavour=ld
