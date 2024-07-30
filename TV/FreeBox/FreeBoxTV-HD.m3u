@@ -1,261 +1,722 @@
 #EXTM3U
 #EXTINF:0,2 - France 2 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=hd
+--
 #EXTINF:0,3 - France 3 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=hd
+--
 #EXTINF:0,5 - France 5 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=hd
+--
 #EXTINF:0,7 - Arte (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=hd
-#EXTINF:0,10 - TMC (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=497&flavour=hd
-#EXTINF:0,11 - TFX (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=374&flavour=hd
+--
 #EXTINF:0,12 - NRJ 12 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=375&flavour=hd
+--
 #EXTINF:0,13 - La Chaîne Parlementaire (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226&flavour=hd
+--
 #EXTINF:0,14 - France 4 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=hd
+--
 #EXTINF:0,15 - BFM TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400&flavour=hd
+--
 #EXTINF:0,17 - CStar (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678&flavour=hd
+--
 #EXTINF:0,18 - Gulli (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=677&flavour=hd
-#EXTINF:0,19 - France Ô (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=238&flavour=hd
+--
 #EXTINF:0,21 - L'Equipe (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=994&flavour=hd
+--
 #EXTINF:0,23 - RMC Story (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=996&flavour=hd
+--
 #EXTINF:0,24 - RMC Découverte (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=997&flavour=hd
+--
 #EXTINF:0,25 - Chérie 25 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=hd
+--
 #EXTINF:0,27 - franceinfo (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1173&flavour=hd
+--
 #EXTINF:0,29 - RTL9 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210&flavour=hd
+--
+#EXTINF:0,37 - DAZN 1 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1658&flavour=hd
+--
 #EXTINF:0,50 - Game One (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=hd
-#EXTINF:0,51 - AB 1 (HD)
+--
+#EXTINF:0,51 - AB1 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211&flavour=hd
+--
 #EXTINF:0,52 - Paramount Channel (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050&flavour=hd
+--
+#EXTINF:0,57 - Warner TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1614&flavour=hd
+--
+#EXTINF:0,62 - W-Sport (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1652&flavour=hd
+--
+#EXTINF:0,64 - TLC (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1615&flavour=hd
+--
+#EXTINF:0,65 - Discovery Investigation (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1619&flavour=hd
+--
+#EXTINF:0,66 - Discovery Channel (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1620&flavour=hd
+--
 #EXTINF:0,70 - TV5 Monde (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206&flavour=hd
+--
+#EXTINF:0,71 - 13ème Rue (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1655&flavour=hd
+--
+#EXTINF:0,72 - SYFY (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1656&flavour=hd
+--
+#EXTINF:0,73 - E! (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1657&flavour=hd
+--
+#EXTINF:0,82 - Warner TV Next (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1163&flavour=hd
+--
+#EXTINF:0,87 - MCM (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=621&flavour=hd
+--
+#EXTINF:0,89 - Game One +1 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=979&flavour=hd
+--
 #EXTINF:0,90 - Mangas (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=253&flavour=hd
-#EXTINF:0,91 - ES1 (HD)
+--
+#EXTINF:0,91 - MGG TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1309&flavour=hd
+--
 #EXTINF:0,94 - GONG (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045&flavour=hd
+--
 #EXTINF:0,95 - GONG MAX (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813&flavour=hd
+--
+#EXTINF:0,97 - Comedy Central (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1318&flavour=hd
+--
 #EXTINF:0,99 - BET (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1135&flavour=hd
+--
+#EXTINF:0,108 - Stingray Festival 4K (4K)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1134&flavour=hd
+--
+#EXTINF:0,116 - OCS Pulp (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1587&flavour=hd
 #EXTINF:0,119 - Eurochannel (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=959&flavour=hd
+--
 #EXTINF:0,121 - Action (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242&flavour=hd
-#EXTINF:0,122 - Paramount Décalé (HD)
+--
+#EXTINF:0,122 - Paramount Channel Décalé (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1167&flavour=hd
-#EXTINF:0,154 - Toonami (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1163&flavour=hd
+--
+#EXTINF:0,124 - FilmBox Arthouse (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1622&flavour=hd
+--
+#EXTINF:0,125 - Ciné Nanar+ (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1681&flavour=hd
+--
+#EXTINF:0,126 - Ciné Western+ (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1682&flavour=hd
+--
+#EXTINF:0,127 - L'Emotion+ (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1683&flavour=hd
+--
+#EXTINF:0,128 - Fréquence Novelas (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1684&flavour=hd
+--
+#EXTINF:0,129 - Scream'IN+ (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1685&flavour=hd
+--
+#EXTINF:0,148 - DreamWorks (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1654&flavour=hd
+--
+#EXTINF:0,159 - TV Pitchoun (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1371&flavour=hd
+--
+#EXTINF:0,161 - Pitchoun Kids Music (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1577&flavour=hd
+--
+#EXTINF:0,168 - Duck TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1616&flavour=hd
+--
+#EXTINF:0,171 - Gametoon (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1623&flavour=hd
+--
+#EXTINF:0,175 - Cheval TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1528&flavour=hd
+--
 #EXTINF:0,176 - Equidia (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=212&flavour=hd
-#EXTINF:0,178 - Trace Sport Stars (HD)
+--
+#EXTINF:0,177 - Horse TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1503&flavour=hd
+--
+#EXTINF:0,178 - TRACE Sport Stars (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=965&flavour=hd
-#EXTINF:0,179 - Fight Box HD (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=969&flavour=hd
-#EXTINF:0,180 - AB Moteurs (HD)
+--
+#EXTINF:0,180 - Automoto (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222&flavour=hd
-#EXTINF:0,181 - Motorsport TV (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1128&flavour=hd
+--
 #EXTINF:0,182 - Motorvision (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1127&flavour=hd
+--
 #EXTINF:0,183 - Nautical Channel (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255&flavour=hd
+--
 #EXTINF:0,185 - Golf Channel (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=892&flavour=hd
+--
+#EXTINF:0,187 - Journal du Golf (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1569&flavour=hd
+--
+#EXTINF:0,189 - Padel Time TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1669&flavour=hd
+--
+#EXTINF:0,190 - Sport en France (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1370&flavour=hd
+--
+#EXTINF:0,191 - Fuel TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1504&flavour=hd
+--
+#EXTINF:0,192 - FastnFunBox (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1624&flavour=hd
+--
+#EXTINF:0,193 - Athlé TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1660&flavour=hd
+--
+#EXTINF:0,194 - Rugby Zone (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1661&flavour=hd
+--
+#EXTINF:0,195 - Futsal Zone (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1662&flavour=hd
+--
+#EXTINF:0,196 - Fight Nation (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1663&flavour=hd
+--
+#EXTINF:0,198 - FightBox (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1625&flavour=hd
+--
 #EXTINF:0,202 - Crime District (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1314&flavour=hd
-#EXTINF:0,205 - Histoire (HD)
+#EXTINF:0,205 - Histoire TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235&flavour=hd
-#EXTINF:0,206 - Toute l'histoire (HD)
+--
+#EXTINF:0,206 - Toute l'Histoire (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=250&flavour=hd
+--
 #EXTINF:0,207 - Science & Vie TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=251&flavour=hd
+--
 #EXTINF:0,208 - Animaux (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=248&flavour=hd
+--
 #EXTINF:0,209 - Trek (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=252&flavour=hd
-#EXTINF:0,210 - Aerostar (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1162&flavour=hd
+--
+#EXTINF:0,210 - Imearth (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1538&flavour=hd
+--
 #EXTINF:0,211 - Souvenirs from Earth (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=710&flavour=hd
-#EXTINF:0,212 - Ikono (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1072&flavour=hd
-#EXTINF:0,214 - Purescreens Nature HD (HD)
+--
+#EXTINF:0,212 - Trotters TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1645&flavour=hd
+--
+#EXTINF:0,214 - MyZen Nature (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=825&flavour=hd
-#EXTINF:0,216 - Chasse et pêche (HD)
+--
+#EXTINF:0,216 - Chasse & Pêche (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=249&flavour=hd
+--
+#EXTINF:0,218 - Telesud (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1494&flavour=hd
+--
 #EXTINF:0,219 - Tahiti Nui (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1297&flavour=hd
-#EXTINF:0,234 - QVC (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1121&flavour=hd
+--
+#EXTINF:0,220 - L'Esprit Sorcier TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1568&flavour=hd
+--
+#EXTINF:0,221 - DocuBox (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1626&flavour=hd
+--
+#EXTINF:0,231 - Tech & Co (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1424&flavour=hd
+--
+#EXTINF:0,232 - Auto Plus TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1492&flavour=hd
+--
+#EXTINF:0,234 - Gourmand TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1459&flavour=hd
+--
 #EXTINF:0,237 - Luxe.TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=460&flavour=hd
-#EXTINF:0,239 - Ouatch TV (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1076&flavour=hd
-#EXTINF:0,242 - FTV HD (HD)
+--
+#EXTINF:0,239 - Top Santé TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1461&flavour=hd
+--
+#EXTINF:0,240 - Maison & Travaux TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1541&flavour=hd
+--
+#EXTINF:0,242 - Fashion TV HD (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=454&flavour=hd
 #EXTINF:0,244 - Lucky Jack (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=891&flavour=hd
-#EXTINF:0,247 - Star 24 (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1111&flavour=hd
-#EXTINF:0,264 - Mezzo Live HD (HD)
+--
+#EXTINF:0,247 - Sqool TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1542&flavour=hd
+--
+#EXTINF:0,248 - EVTV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1675&flavour=hd
+--
+#EXTINF:0,261 - RFM TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=623&flavour=hd
+--
+#EXTINF:0,263 - Mezzo (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=265&flavour=hd
+#EXTINF:0,264 - Mezzo Live (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=858&flavour=hd
-#EXTINF:0,266 - Stingray Brava (HD)
+--
+#EXTINF:0,264 - Mezzo Live (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=858&flavour=hd
+--
+#EXTINF:0,266 - Stingray Classica (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=820&flavour=hd
+--
 #EXTINF:0,271 - MCM TOP (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=622&flavour=hd
+--
 #EXTINF:0,274 - Clubbing TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=767&flavour=hd
-#EXTINF:0,281 - OKLM (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1166&flavour=hd
-#EXTINF:0,282 - Generations TV (HD)
+--
+#EXTINF:0,275 - 360 TuneBox (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1627&flavour=hd
+--
+#EXTINF:0,284 - Generations TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1305&flavour=hd
-#EXTINF:0,287 - Trace Urban (HD)
+--
+#EXTINF:0,285 - TRACE Urban (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=228&flavour=hd
-#EXTINF:0,288 - Trace Tropical (HD)
+--
+#EXTINF:0,286 - TRACE Caribbean (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=769&flavour=hd
-#EXTINF:0,290 - Trace Gospel (HD)
+--
+#EXTINF:0,290 - TRACE Gospel (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1136&flavour=hd
+--
+#EXTINF:0,293 - TRACE Vanilla (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1634&flavour=hd
+--
+#EXTINF:0,294 - TRACE Latina (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1635&flavour=hd
+--
+#EXTINF:0,295 - BBlack Africa (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1582&flavour=hd
+--
+#EXTINF:0,296 - BBlack Caribbean (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1583&flavour=hd
+--
+#EXTINF:0,297 - Madras FM TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1637&flavour=hd
+--
+#EXTINF:0,298 - Vibes TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1636&flavour=hd
+--
 #EXTINF:0,301 - France 3 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=hd
+--
 #EXTINF:0,302 - France 3 Alpes (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=283&flavour=hd
+--
 #EXTINF:0,303 - France 3 Alsace (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=280&flavour=hd
+--
 #EXTINF:0,304 - France 3 Aquitaine (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=284&flavour=hd
+--
 #EXTINF:0,305 - France 3 Auvergne (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=285&flavour=hd
+--
 #EXTINF:0,306 - France 3 Basse-Normandie (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=298&flavour=hd
+--
 #EXTINF:0,307 - France 3 Bourgogne (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=279&flavour=hd
+--
 #EXTINF:0,308 - France 3 Bretagne (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=286&flavour=hd
+--
 #EXTINF:0,309 - France 3 Centre (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=287&flavour=hd
+--
 #EXTINF:0,310 - France 3 Champagne-Ardenne (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=288&flavour=hd
+--
 #EXTINF:0,311 - France 3 Corse Via Stella (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=289&flavour=hd
+--
 #EXTINF:0,312 - France 3 Côte-d'Azur (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=290&flavour=hd
+--
 #EXTINF:0,313 - France 3 Franche-Comté (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=291&flavour=hd
+--
 #EXTINF:0,314 - France 3 Haute-Normandie (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=297&flavour=hd
+--
 #EXTINF:0,315 - France 3 Languedoc-Roussillon (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=292&flavour=hd
+--
 #EXTINF:0,316 - France 3 Limousin (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=293&flavour=hd
+--
 #EXTINF:0,317 - France 3 Lorraine (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=294&flavour=hd
+--
 #EXTINF:0,318 - France 3 Midi Pyrénées (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=295&flavour=hd
+--
 #EXTINF:0,319 - France 3 Nord Pas-de-Calais (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=296&flavour=hd
+--
 #EXTINF:0,320 - France 3 Paris Ile-de-France (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=257&flavour=hd
+--
 #EXTINF:0,321 - France 3 Pays de Loire (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=299&flavour=hd
+--
 #EXTINF:0,322 - France 3 Picardie (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=300&flavour=hd
+--
 #EXTINF:0,323 - France 3 Poitou-Charentes (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=301&flavour=hd
+--
 #EXTINF:0,324 - France 3 Provence-Alpes (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=302&flavour=hd
+--
 #EXTINF:0,325 - France 3 Rhône-Alpes (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=303&flavour=hd
+--
+#EXTINF:0,326 - France 3 NoA (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1315&flavour=hd
+--
+#EXTINF:0,327 - BFM Paris Île-de-France (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1375&flavour=hd
+--
+#EXTINF:0,329 - BFM Grand Lille (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=826&flavour=hd
+--
+#EXTINF:0,330 - BFM Grand Littoral (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1302&flavour=hd
+--
+#EXTINF:0,331 - BFM Marseille Provence (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1499&flavour=hd
+--
+#EXTINF:0,332 - BFM Nice Côte d'Azur (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1501&flavour=hd
+--
+#EXTINF:0,333 - BFM Toulon Var (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1500&flavour=hd
+--
+#EXTINF:0,334 - BFM DICI Alpes du Sud (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1361&flavour=hd
+--
+#EXTINF:0,337 - BFM Normandie (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1574&flavour=hd
+--
+#EXTINF:0,339 - BFM Business (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897&flavour=hd
+--
+#EXTINF:0,340 - France 24 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739&flavour=hd
+--
 #EXTINF:0,343 - LCP - Assemblée Nationale 24h/24 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=688&flavour=hd
+--
 #EXTINF:0,344 - Public Sénat (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692&flavour=hd
-#EXTINF:0,347 - BFM Business (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897&flavour=hd
-#EXTINF:0,358 - NHK World-Japan (HD)
+--
+#EXTINF:0,349 - B Smart (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1427&flavour=hd
+--
+#EXTINF:0,350 - Le Média TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1649&flavour=hd
+--
+#EXTINF:0,354 - CNN International (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=323&flavour=hd
+#EXTINF:0,354 - CNN International (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=323&flavour=hd
+--
+#EXTINF:0,361 - NHK World-Japan (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=812&flavour=hd
-#EXTINF:0,359 - Russia Today France (HD)
+--
+#EXTINF:0,362 - RT France (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1304&flavour=hd
+#EXTINF:0,372 - Private HD (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1668&flavour=hd
+--
+#EXTINF:0,375 - Vixen TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1495&flavour=hd
+--
+#EXTINF:0,377 - Dorcel TV Africa (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1493&flavour=hd
+--
+#EXTINF:0,382 - Reality Kings TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1158&flavour=hd
+--
+#EXTINF:0,385 - EroX (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1628&flavour=hd
+--
+#EXTINF:0,386 - EroXXX (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1629&flavour=hd
+--
+#EXTINF:0,389 - Hustler HD (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1667&flavour=hd
+--
+#EXTINF:0,393 - Redlight HD (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1666&flavour=hd
+--
+#EXTINF:0,409 - Eurosport 3 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1686&flavour=hd
+--
+#EXTINF:0,410 - Eurosport 4 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1687&flavour=hd
+--
+#EXTINF:0,411 - Eurosport 5 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1688&flavour=hd
+--
+#EXTINF:0,412 - Eurosport 6 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1689&flavour=hd
+--
+#EXTINF:0,413 - Eurosport 7 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1690&flavour=hd
+--
+#EXTINF:0,414 - Eurosport 8 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1691&flavour=hd
+--
+#EXTINF:0,415 - Eurosport 9 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1692&flavour=hd
+--
+#EXTINF:0,439 - Kalac TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1676&flavour=hd
+--
+#EXTINF:0,441 - Guinée Fé (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1678&flavour=hd
+--
+#EXTINF:0,442 - Pulaagu (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1679&flavour=hd
+--
 #EXTINF:0,444 - A+ (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1232&flavour=hd
+--
+#EXTINF:0,457 - Mandeka (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1680&flavour=hd
+--
+#EXTINF:0,479 - Sharjah TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1551&flavour=hd
+--
+#EXTINF:0,495 - Rotana HD+ (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1546&flavour=hd
+--
+#EXTINF:0,522 - TeleMadrid (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1571&flavour=hd
+--
+#EXTINF:0,523 - Antena 3 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1101&flavour=hd
+--
 #EXTINF:0,524 - Atres Series (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1102&flavour=hd
-#EXTINF:0,529 - Star TVE HD (bas débit)
-#EXTINF:0,529 - Star TVE HD (auto)
+--
+#EXTINF:0,525 - All Flamenco (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1534&flavour=hd
+--
 #EXTINF:0,529 - Star TVE HD (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1293&flavour=hd
-#EXTINF:0,582 - Powertürk TV (HD)
+--
+#EXTINF:0,530 - Real Madrid TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1572&flavour=hd
+--
+#EXTINF:0,541 - TGCOM24 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1640&flavour=hd
+--
+#EXTINF:0,551 - Asharq News (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1488&flavour=hd
+--
+#EXTINF:0,560 - Alaraby (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1385&flavour=hd
+--
+#EXTINF:0,568 - Saudi Quran (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1584&flavour=hd
+--
+#EXTINF:0,570 - Sky News Arabia (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1578&flavour=hd
+--
+#EXTINF:0,571 - Echorouk TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1160&flavour=hd
+--
+#EXTINF:0,572 - Echorouk News (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1366&flavour=hd
+--
+#EXTINF:0,580 - Gulli Bil Arabi (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1372&flavour=hd
+--
+#EXTINF:0,583 - MBC+ Drama (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1478&flavour=hd
+--
+#EXTINF:0,587 - PowerTürk TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=489&flavour=hd
-#EXTINF:0,664 - Iqraa Int (HD)
+#EXTINF:0,589 - TRT World (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1233&flavour=hd
+--
+#EXTINF:0,613 - Dizi (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1630&flavour=hd
+--
+#EXTINF:0,648 - Lana TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1484&flavour=hd
+--
+#EXTINF:0,650 - Roya TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1483&flavour=hd
+--
+#EXTINF:0,664 - Iqraa Int (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1035&flavour=hd
+--
+#EXTINF:0,668 - Rotana M+ (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1548&flavour=hd
+--
+#EXTINF:0,670 - ON TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1516&flavour=hd
+--
+#EXTINF:0,673 - DMC (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1517&flavour=hd
+--
+#EXTINF:0,678 - Rotana Kids (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1549&flavour=hd
+--
+#EXTINF:0,686 - Télé Maroc (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1519&flavour=hd
+--
+#EXTINF:0,692 - Rotana Cinema+ FR (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1543&flavour=hd
+--
+#EXTINF:0,693 - Rotana Aflam+ (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1547&flavour=hd
+--
+#EXTINF:0,694 - RT Doc (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1380&flavour=hd
+--
 #EXTINF:0,695 - Russia Today (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=726&flavour=hd
-#EXTINF:0,696 - Russia Today Espanol (HD)
+--
+#EXTINF:0,696 - Russia Today Español (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=856&flavour=hd
-#EXTINF:0,697 - Record Internacional (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=728&flavour=hd
+--
 #EXTINF:0,719 - Mandarin TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1131&flavour=hd
-#EXTINF:0,744 - Hunan TV - CET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1240&flavour=hd
-#EXTINF:0,754 - Hubei TV - CET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1250&flavour=hd
-#EXTINF:0,756 - Liaoning TV - CET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1252&flavour=hd
-#EXTINF:0,774 - Documentary Channel - CET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1269&flavour=hd
-#EXTINF:0,775 - Society & Law Channel - CET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1270&flavour=hd
-#EXTINF:0,777 - Beijing TV Documentary - CET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1272&flavour=hd
-#EXTINF:0,785 - Hong Kong TV - CET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1279&flavour=hd
-#EXTINF:0,789 - Cartoon Channel - CET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1283&flavour=hd
-#EXTINF:0,790 - Entertainment Channel - CET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1284&flavour=hd
-#EXTINF:0,791 - Boutique Drama Channel - CET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1285&flavour=hd
-#EXTINF:0,792 - Palace TV - CET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1286&flavour=hd
-#EXTINF:0,793 - Panda Channel - CET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1287&flavour=hd
-#EXTINF:0,900 - Grand Lille TV (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=826&flavour=hd
-#EXTINF:0,909 - TV Cristal (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1234&flavour=hd
-#EXTINF:0,910 - IDF 1 (HD)
+--
+#EXTINF:0,745 - Shant Premium (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1507&flavour=hd
+--
+#EXTINF:0,746 - Shant Kids (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1506&flavour=hd
+--
+#EXTINF:0,748 - Shant Music (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1508&flavour=hd
+--
+#EXTINF:0,749 - Shant Serial (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1509&flavour=hd
+--
+#EXTINF:0,782 - NHK World Premium (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1650&flavour=hd
+--
+#EXTINF:0,900 - TVMonaco (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1647&flavour=hd
+--
+#EXTINF:0,906 - TV Tarn (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1665&flavour=hd
+--
+#EXTINF:0,909 - MyTV Caraïbes (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1612&flavour=hd
+--
+#EXTINF:0,910 - 20 Minutes TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=689&flavour=hd
-#EXTINF:0,926 - Grand Littoral TV (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1302&flavour=hd
+--
+#EXTINF:0,916 - ETV Guadeloupe (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1638&flavour=hd
+--
+#EXTINF:0,918 - TLC (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1360&flavour=hd
+--
 #EXTINF:0,927 - TVR (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1063&flavour=hd
+--
 #EXTINF:0,928 - Tébésud (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1064&flavour=hd
+--
 #EXTINF:0,929 - Tébéo (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1065&flavour=hd
-#EXTINF:0,931 - MFM TV (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1067&flavour=hd
-#EXTINF:0,937 - MaTélé (HD)
+--
+#EXTINF:0,935 - Alpe d'Huez TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1653&flavour=hd
+--
+#EXTINF:0,937 - MATÉLÉ (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1165&flavour=hd
+--
 #EXTINF:0,938 - Angers TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1174&flavour=hd
-#EXTINF:0,942 - Vià31 (HD)
+--
+#EXTINF:0,940 - Cannes Lérins TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1639&flavour=hd
+--
+#EXTINF:0,941 - Wéo Picardie (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1362&flavour=hd
+--
+#EXTINF:0,942 - viàOccitanie Toulouse (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1303&flavour=hd
+--
+#EXTINF:0,943 - Mosaik Cristal (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1646&flavour=hd
+--
+#EXTINF:0,944 - ASTV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1383&flavour=hd
+--
+#EXTINF:0,945 - Bip TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1533&flavour=hd
+--
+#EXTINF:0,947 - LMTv Sarthe (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1617&flavour=hd
+--
+#EXTINF:0,948 - Kanaldude (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1618&flavour=hd
+--
+#EXTINF:0,949 - Maurienne TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1463&flavour=hd
+--
+#EXTINF:0,950 - La Chaîne 32 (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1521&flavour=hd
+--
+#EXTINF:0,951 - 7ALimoges (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1552&flavour=hd
+--
+#EXTINF:0,952 - NA TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1567&flavour=hd
+--
+#EXTINF:0,953 - Puissance Télévision (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1621&flavour=hd
