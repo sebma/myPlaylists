@@ -27,6 +27,14 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=621&flavour=sd
 #EXTINF:0,95 - GONG MAX (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813&flavour=sd
+#EXTINF:0,164 - Euronews (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=205&flavour=sd
+#EXTINF:0,166 - France 24 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739&flavour=sd
+#EXTINF:0,167 - LCP - Assemblée Nationale 24h/24 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=688&flavour=sd
+#EXTINF:0,168 - Public Sénat (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692&flavour=sd
 #EXTINF:0,176 - Equidia (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=212&flavour=sd
 #EXTINF:0,183 - Nautical Channel (bas débit)
@@ -119,18 +127,10 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=303&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=267&flavour=sd
 #EXTINF:0,336 - BFM Alsace (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=753&flavour=sd
-#EXTINF:0,340 - France 24 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739&flavour=sd
 #EXTINF:0,341 - France 24 English (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=740&flavour=sd
 #EXTINF:0,342 - France 24 Arab (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=741&flavour=sd
-#EXTINF:0,343 - LCP - Assemblée Nationale 24h/24 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=688&flavour=sd
-#EXTINF:0,344 - Public Sénat (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692&flavour=sd
-#EXTINF:0,345 - Euronews (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=205&flavour=sd
 #EXTINF:0,346 - Euronews International (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=949&flavour=sd
 #EXTINF:0,353 - Sky News International (standard)
