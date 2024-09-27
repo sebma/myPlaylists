@@ -31,8 +31,6 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1173
 #EXTINF:0,29 - RTL9 (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210
-#EXTINF:0,37 - DAZN 1 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1658
 #EXTINF:0,50 - Game One (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220
 #EXTINF:0,51 - AB1 (auto)
@@ -75,8 +73,6 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1318
 #EXTINF:0,99 - BET (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1135
-#EXTINF:0,116 - OCS Pulp (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1587
 #EXTINF:0,119 - Eurochannel (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=959
 #EXTINF:0,121 - Action (auto)
@@ -97,12 +93,26 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1684
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1685
 #EXTINF:0,148 - DreamWorks (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1654
+#EXTINF:0,158 - Duck TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1616
 #EXTINF:0,159 - TV Pitchoun (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1371
-#EXTINF:0,161 - Pitchoun Kids Music (auto)
+#EXTINF:0,160 - Pitchoun Kids Music (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1577
-#EXTINF:0,168 - Duck TV (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1616
+#EXTINF:0,161 - BFM 2 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1699
+#EXTINF:0,162 - BFM Business (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897
+#EXTINF:0,163 - B Smart (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1427
+#EXTINF:0,165 - Le Média TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1649
+#EXTINF:0,166 - France 24 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739
+#EXTINF:0,167 - LCP - Assemblée Nationale 24h/24 (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=688
+#EXTINF:0,168 - Public Sénat (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692
 #EXTINF:0,171 - Gametoon (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1623
 #EXTINF:0,175 - Cheval TV (auto)
@@ -119,8 +129,6 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=222
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1127
 #EXTINF:0,183 - Nautical Channel (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=255
-#EXTINF:0,185 - Golf Channel (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=892
 #EXTINF:0,187 - Journal du Golf (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1569
 #EXTINF:0,189 - Padel Time TV (auto)
@@ -143,6 +151,8 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1663
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1625
 #EXTINF:0,202 - Crime District (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1314
+#EXTINF:0,203 - Le Figaro TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1698
 #EXTINF:0,205 - Histoire TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=235
 #EXTINF:0,206 - Toute l'Histoire (auto)
@@ -291,18 +301,6 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1500
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1361
 #EXTINF:0,337 - BFM Normandie (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1574
-#EXTINF:0,339 - BFM Business (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=897
-#EXTINF:0,340 - France 24 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739
-#EXTINF:0,343 - LCP - Assemblée Nationale 24h/24 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=688
-#EXTINF:0,344 - Public Sénat (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692
-#EXTINF:0,349 - B Smart (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1427
-#EXTINF:0,350 - Le Média TV (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1649
 #EXTINF:0,354 - CNN International (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=323
 #EXTINF:0,361 - NHK World-Japan (auto)
@@ -325,22 +323,10 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1629
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1667
 #EXTINF:0,393 - Redlight HD (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1666
-#EXTINF:0,409 - Eurosport 3 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1686
-#EXTINF:0,410 - Eurosport 4 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1687
-#EXTINF:0,411 - Eurosport 5 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1688
-#EXTINF:0,412 - Eurosport 6 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1689
-#EXTINF:0,413 - Eurosport 7 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1690
-#EXTINF:0,414 - Eurosport 8 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1691
-#EXTINF:0,415 - Eurosport 9 (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1692
 #EXTINF:0,439 - Kalac TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1676
+#EXTINF:0,440 - Espace TV (auto)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1677
 #EXTINF:0,441 - Guinée Fé (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1678
 #EXTINF:0,442 - Pulaagu (auto)
@@ -381,8 +367,6 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1160
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1366
 #EXTINF:0,580 - Gulli Bil Arabi (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1372
-#EXTINF:0,583 - MBC+ Drama (auto)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1478
 #EXTINF:0,587 - PowerTürk TV (auto)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=489
 #EXTINF:0,589 - TRT World (auto)
