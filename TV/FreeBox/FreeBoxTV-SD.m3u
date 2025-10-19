@@ -3,23 +3,21 @@
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=201&flavour=sd
 #EXTINF:0,3 - France 3 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=sd
+#EXTINF:0,4 - France 4 (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=sd
 #EXTINF:0,5 - France 5 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=203&flavour=sd
 #EXTINF:0,7 - Arte (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=204&flavour=sd
-#EXTINF:0,8 - C8 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=372&flavour=sd
-#EXTINF:0,13 - La Chaîne Parlementaire (standard)
+#EXTINF:0,8 - La Chaîne Parlementaire (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=226&flavour=sd
-#EXTINF:0,14 - France 4 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=376&flavour=sd
-#EXTINF:0,15 - BFM TV (standard)
+#EXTINF:0,13 - BFM TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=400&flavour=sd
-#EXTINF:0,16 - CNews (standard)
+#EXTINF:0,14 - CNews (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=679&flavour=sd
 #EXTINF:0,17 - CStar (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=678&flavour=sd
-#EXTINF:0,50 - Game One (standard)
+#EXTINF:0,61 - Game One (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=sd
 #EXTINF:0,70 - TV5 Monde (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=206&flavour=sd
@@ -73,8 +71,8 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=228&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=769&flavour=sd
 #EXTINF:0,287 - TRACE Africa (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=963&flavour=sd
-#EXTINF:0,301 - France 3 (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=202&flavour=sd
+#EXTINF:0,301 - France 3 national (standard)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=258&flavour=sd
 #EXTINF:0,302 - France 3 Alpes (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=283&flavour=sd
 #EXTINF:0,303 - France 3 Alsace (bas débit)
@@ -173,7 +171,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=788&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=773&flavour=sd
 #EXTINF:0,480 - MEDI1TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=730&flavour=sd
-#EXTINF:0,481 - Canal Algérie (standard)
+#EXTINF:0,481 - TV2 Algérie (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=274&flavour=sd
 #EXTINF:0,487 - Berbère TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=256&flavour=sd
@@ -187,7 +185,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=278&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=794&flavour=sd
 #EXTINF:0,504 - iTVN (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=795&flavour=sd
-#EXTINF:0,515 - TV Romania (standard)
+#EXTINF:0,515 - TVRI (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=318&flavour=sd
 #EXTINF:0,531 - Telesur (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=729&flavour=sd
@@ -237,7 +235,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=447&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=489&flavour=sd
 #EXTINF:0,593 - TRT 1 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=490&flavour=sd
-#EXTINF:0,594 - TRT Turk (standard)
+#EXTINF:0,594 - TRT Int (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=369&flavour=sd
 #EXTINF:0,595 - TRT Cocuk (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=798&flavour=sd
@@ -255,7 +253,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=700&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=435&flavour=sd
 #EXTINF:0,604 - Star TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=464&flavour=sd
-#EXTINF:0,614 - The Israeli Network (standard)
+#EXTINF:0,614 - Israel Plus (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=462&flavour=sd
 #EXTINF:0,616 - Arte Allemand (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=270&flavour=sd
@@ -263,7 +261,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=270&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=312&flavour=sd
 #EXTINF:0,627 - SIC Internacional (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=484&flavour=sd
-#EXTINF:0,636 - TVI Ficção (bas débit)
+#EXTINF:0,636 - V+ TVI (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1059&flavour=sd
 #EXTINF:0,637 - RTPi (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=388&flavour=sd
@@ -281,14 +279,6 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=817&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=876&flavour=sd
 #EXTINF:0,689 - ART Aflam 1 (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=328&flavour=sd
-#EXTINF:0,695 - Russia Today (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=726&flavour=sd
-#EXTINF:0,701 - Channel 1 Russia (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=357&flavour=sd
-#EXTINF:0,704 - RTR Planeta (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=317&flavour=sd
-#EXTINF:0,715 - Rossiya 24 (bas débit)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=792&flavour=sd
 #EXTINF:0,720 - CGTN Documentaire (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=948&flavour=sd
 #EXTINF:0,721 - CCTV-4 (standard)
@@ -357,11 +347,9 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=319&flavour=sd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=423&flavour=sd
 #EXTINF:0,904 - Le Figaro TV Île-de-France (bas débit)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=360&flavour=sd
-#EXTINF:0,905 - ÈRE TV (standard)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=363&flavour=sd
 #EXTINF:0,907 - Télénantes (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=389&flavour=sd
-#EXTINF:0,908 - TV Tours (HD)
+#EXTINF:0,908 - Val de Loire TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=493&flavour=sd
 #EXTINF:0,910 - 20 Minutes TV (standard)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=689&flavour=sd
