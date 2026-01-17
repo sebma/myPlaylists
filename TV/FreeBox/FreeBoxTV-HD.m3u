@@ -35,12 +35,8 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=998&flavour=hd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=210&flavour=hd
 #EXTINF:0,51 - AB1 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=211&flavour=hd
-#EXTINF:0,52 - Paramount Network (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1050&flavour=hd
 #EXTINF:0,57 - Warner TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1614&flavour=hd
-#EXTINF:0,61 - Game One (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=220&flavour=hd
 #EXTINF:0,64 - TLC (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1615&flavour=hd
 #EXTINF:0,65 - Discovery Investigation (HD)
@@ -59,8 +55,6 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1657&flavour=hd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1163&flavour=hd
 #EXTINF:0,87 - MCM (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=621&flavour=hd
-#EXTINF:0,89 - Game One +1 (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=979&flavour=hd
 #EXTINF:0,90 - Mangas (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=253&flavour=hd
 #EXTINF:0,91 - MGG TV (HD)
@@ -71,16 +65,10 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1045&flavour=hd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=813&flavour=hd
 #EXTINF:0,97 - Comedy Central (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1318&flavour=hd
-#EXTINF:0,99 - BET (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1135&flavour=hd
-#EXTINF:0,108 - Stingray Festival 4K (4K)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1134&flavour=hd
 #EXTINF:0,119 - Eurochannel (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=959&flavour=hd
 #EXTINF:0,121 - Action (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=242&flavour=hd
-#EXTINF:0,122 - Paramount Network Décalé (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1167&flavour=hd
 #EXTINF:0,124 - FilmBox Arthouse (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1622&flavour=hd
 #EXTINF:0,125 - Ciné Nanar+ (HD)
@@ -99,7 +87,7 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1654&flavour=hd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1371&flavour=hd
 #EXTINF:0,154 - Pitchoun Kids Music (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1577&flavour=hd
-#EXTINF:0,158 - Duck TV (HD)
+#EXTINF:0,157 - Duck TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1616&flavour=hd
 #EXTINF:0,160 - BFM 2 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1699&flavour=hd
@@ -113,10 +101,6 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=205&flavour=hd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1649&flavour=hd
 #EXTINF:0,166 - France 24 (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=739&flavour=hd
-#EXTINF:0,167 - LCP - Assemblée Nationale 24h/24 (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=688&flavour=hd
-#EXTINF:0,168 - Public Sénat (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=692&flavour=hd
 #EXTINF:0,170 - W-Sport (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1652&flavour=hd
 #EXTINF:0,171 - Gametoon (HD)
@@ -195,18 +179,18 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=460&flavour=hd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1461&flavour=hd
 #EXTINF:0,240 - Maison & Travaux TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1541&flavour=hd
-#EXTINF:0,242 - Fashion TV HD (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=454&flavour=hd
+#EXTINF:0,241 - Fashion TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=221&flavour=hd
 #EXTINF:0,244 - Lucky Jack (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=891&flavour=hd
-#EXTINF:0,246 - English Club TV (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1082&flavour=hd
-#EXTINF:0,247 - Sqool TV (HD)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1542&flavour=hd
 #EXTINF:0,248 - EVTV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1675&flavour=hd
 #EXTINF:0,249 - EMCI TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1711&flavour=hd
+#EXTINF:0,255 - Sqool TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1542&flavour=hd
+#EXTINF:0,256 - English Club TV (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1082&flavour=hd
 #EXTINF:0,261 - RFM TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=623&flavour=hd
 #EXTINF:0,263 - Mezzo (HD)
@@ -339,6 +323,8 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1629&flavour=hd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1667&flavour=hd
 #EXTINF:0,393 - Redlight HD (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1666&flavour=hd
+#EXTINF:0,431 - Nina Novelas (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1296&flavour=hd
 #EXTINF:0,437 - Reflet TV (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1744&flavour=hd
 #EXTINF:0,438 - DRTV (HD)
@@ -469,6 +455,8 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1731&flavour=hd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1638&flavour=hd
 #EXTINF:0,918 - TLC (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1360&flavour=hd
+#EXTINF:0,924 - TV Vendée (HD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=964&flavour=hd
 #EXTINF:0,927 - TVR (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1063&flavour=hd
 #EXTINF:0,928 - Tébésud (HD)
@@ -509,3 +497,5 @@ rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1552&flavour=hd
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1567&flavour=hd
 #EXTINF:0,953 - Puissance Télévision (HD)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1621&flavour=hd
+#EXTINF:0,998 - Stingray Festival 4K (UHD)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=1134&flavour=hd
